@@ -1,4 +1,4 @@
-baseURL = "https://banak.github.io/"
+baseURL = "https://banak.github.io/myblog/"
 title = "Banak"
 theme = "hugo-coder"
 languageCode = "en"
